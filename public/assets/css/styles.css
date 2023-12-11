@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.error{
+    color:red;
+}
+
+.errorField{
+    border: 1px solid red;
+}
+
+body{
+    background-image: url("../img/hopital.jpg");
+    background-color: #CAEAE4;
+    width: 100%;
+    height: 100vh;
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat: no-repeat;
+    
+}
+
